@@ -1,0 +1,21 @@
+/* TransactionStatistics.module.css */
+.statisticsContainer {
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .monthSelector {
+    margin-bottom: 20px;
+  }
+  
+  .statisticsBox {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+  }
+  
